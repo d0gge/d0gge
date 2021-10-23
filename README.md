@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello there, I'm CS student
+### Hello there!
 
 - 🎓 I'm currently studying 
