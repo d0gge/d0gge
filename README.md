@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **d0gge/d0gge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,4 +19,4 @@ Here are some ideas to get you started:
 
 ### You can reach me:
 
-[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111710.png">]
+[<img align="left" href="" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png">]
