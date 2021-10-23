@@ -15,8 +15,3 @@ Here are some ideas to get you started:
 ### Hello there, I'm CS student
 
 - 🎓 I'm currently studying 
-
-
-### You can reach me:
-
-[<img align="left" href="" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png">]
