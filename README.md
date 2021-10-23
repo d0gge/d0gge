@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hello there, I'm CS student
+
+- 🎓 I'm currently studying 
+
+
+### You can reach me:
+
+[<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111710.png">]
