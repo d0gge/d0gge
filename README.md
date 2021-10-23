@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffree4kwallpapers.com%2Fspace%2Fwhite-art-space-wallpaper--AXv9&psig=AOvVaw3NB__DcUojI_68zBt9UHI4&ust=1635062874877000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICq-oKK4PMCFQAAAAAdAAAAABAZ">]
+[<img src="https://free4kwallpapers.com/uploads/originals/2016/06/24/white-art-space-4k-wallpaper.jpg">]
 ### Hello there!
 
 - 🎓 I'm currently studying 
